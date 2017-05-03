@@ -9,10 +9,3 @@ Checkout this repo, install dependencies, then start:
 > npm install
 > npm start
 ```
-
-#### Running app
-
-```
-> npm install
-> npm start
-```
